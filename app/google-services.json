@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "120792083999",
+    "project_id": "spanzuratoarea-640f5",
+    "storage_bucket": "spanzuratoarea-640f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120792083999:android:96a360714627527562af2a",
+        "android_client_info": {
+          "package_name": "com.tonio.spanzuratoarea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120792083999-e4l1t8q6c9rqk57ggima89drsp5d5ra0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxSX4Ukc23Jt1IkNgLO-b6aFFjnAbB17U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120792083999-e4l1t8q6c9rqk57ggima89drsp5d5ra0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

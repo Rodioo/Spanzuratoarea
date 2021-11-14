@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Spânzurătoarea</string>
+    <string name="titlu">Spanzuratoarea</string>
+    <string name="joc">Joc nou</string>
+    <string name="categorie">Alege o categorie pentru joc</string>
+    <string name="aleatoriu">ALEATORIU</string>
+    <string name="animale">ANIMALE</string>
+    <string name="capitale">CAPITALE</string>
+    <string name="cantareti">CANTAREȚI</string>
+    <string name="filmeSeriale">FILME SI SERIALE</string>
+    <string name="fructeLegume">FRUCTE SI LEGUME</string>
+    <string name= "plante">PLANTE</string>
+    <string name="romani">ROMANI CELEBRI</string>
+    <string name="sportivi">SPORTIVI</string>
+    <string name="tari">TARI</string>
+    <string name="startJoc">INCEPE JOCUL</string>
+
+
+</resources>
