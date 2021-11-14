@@ -3,4 +3,5 @@
 This game was developed in Android Studio IDE using the Java language.
 
 The app is currently under review to be published on Google Play.
+
 Current version of the game: V1.0
